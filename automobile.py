@@ -1,3 +1,4 @@
+# Base class for all vehicles whose emissions are roughly dependent on distance traveled
 class Auto:
     def __init__(self, co2_per_km, embodied):
         self.co2_per_km = co2_per_km
