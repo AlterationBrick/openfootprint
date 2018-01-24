@@ -1,4 +1,4 @@
-# OpenImpact
+# OpenFootprint
 ### Motivation
 To easily enable calculation and comparison of the ecological impacts of consumer choices.
 ### Principles
