@@ -1,0 +1,55 @@
+# Data for 2016 from EIA website > eia.gov/electricity/state
+# In lbs CO2 / MWh
+# I would love to source this data directly from the Internet but that's hard
+
+al: 893
+ak: 1204
+az: 901
+ar: 1155
+ca: 525
+co: 1458
+ct: 517
+de: 1099
+dc: 1368
+fl: 1019
+ga: 992
+hi: 1605
+id: 257
+il: 848
+in: 1846
+ia: 1122
+ks: 1191
+ky: 1985
+la: 1090
+me: 489
+md: 1100
+ma: 876
+mi: 1151
+mn: 1096
+ms: 919
+mo: 1756
+mt: 1304
+nb: 1386
+nv: 804
+nh: 288
+nj: 598
+nm: 1550
+ny: 512
+nc: 883
+nd: 1738
+oh: 1510
+ok: 1038
+or: 300
+pa: 870
+ri: 895
+sc: 635
+sd: 511
+tn: 1107
+tx: 1146
+ut: 1629
+vt: 13
+va: 869
+wa: 197
+wv: 1984
+wi: 1385
+wy: 2083
